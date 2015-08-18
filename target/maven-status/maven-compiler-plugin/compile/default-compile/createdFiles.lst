@@ -1,1 +1,7 @@
-controller\HellowWorldContoller.class
+com\lviv\igor\dao\impl\UserDAOImpl.class
+com\lviv\igor\dao\inter\UserDAO.class
+com\lviv\igor\service\UserService.class
+com\lviv\igor\controller\Demo.class
+com\lviv\igor\controller\HellowWorldContoller.class
+com\lviv\igor\model\User.class
+com\lviv\igor\controller\Config.class
